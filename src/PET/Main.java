@@ -7,7 +7,7 @@ public class Main {
         Scanner ler = new Scanner(System.in);
         System.out.println("Digite o nome: ");
         String nome = ler.next();
-        System.out.println("Digite o nome: ");
+        System.out.println("Digite o especie: ");
         String especie = ler.next();
         System.out.println("Digite o nome: ");
         int idade = ler.nextInt();
